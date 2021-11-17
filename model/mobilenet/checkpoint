@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/drive/Shareddrives/Visual Information Processing/mobilenet_model"
+all_model_checkpoint_paths: "/content/drive/Shareddrives/Visual Information Processing/mobilenet_model"
