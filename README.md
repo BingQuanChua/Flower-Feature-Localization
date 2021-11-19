@@ -1,10 +1,12 @@
-# Flower Localization
+# Flower Feature Localization 👁👁
 
-To create an image classification capable of 
+A technique that allows CNN models to show 'visual explanations' behind their decision in classification problems.
+
+[[2019] Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/pdf/1610.02391.pdf)
 
 ## References
 
-Helpful materials that helped me to learn about image classification with CNN and also image localization.
+Helpful materials that helped learning image classification with CNN and also feature localization.
 
 1. [[Towards Data Science] **Understand your Algorithm with Grad-CAM**](https://towardsdatascience.com/understand-your-algorithm-with-grad-cam-d3b62fce353)
 2. [[Towards Data Science] **Transfer Learning using Mobilenet and Keras**](https://towardsdatascience.com/transfer-learning-using-mobilenet-and-keras-c75daf7ff299)
@@ -15,4 +17,3 @@ Helpful materials that helped me to learn about image classification with CNN an
 6. [[Kaggle] **Get Start Image Classification**](https://www.kaggle.com/uysimty/get-start-image-classification)
 
 7. [[Kaggle] **Intel Image Classification (CNN - Keras)**](https://www.kaggle.com/vincee/intel-image-classification-cnn-keras)
-
